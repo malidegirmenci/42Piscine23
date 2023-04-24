@@ -1,4 +1,4 @@
-# C Piscine @ 42saopaulo
+# C Piscine @ 42Kocaeli
 
 This repository contains coding developed at [42Kocaeli's](https://42kocaeli.com.tr/) C bootcamp (also known as `Piscine`), from 20/march/2023 to 14/april/2023.
 
