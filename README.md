@@ -56,9 +56,9 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |02	|[C 00](./C00)			|C					
 |03	|[C 01](./C01)			|C					
 |04	|[C 02](./C02)			|C			
-|05	|[C 03](./c_piscine_c_03)			|C							
-|06	|[C 04](./c_piscine_c_04)			|C			
-|07	|[C 06](./c_piscine_c_06)			|C			
-|08	|[C 05](./c_piscine_c_05)			|C			
-|09	|[C 07](./c_piscine_c_07)			|C			
-|10	|[C 08](./c_piscine_c_08)			|C	
+|05	|[C 03](./C03)			|C							
+|06	|[C 04](./C04)			|C			
+|07	|[C 06](./C05)			|C			
+|08	|[C 05](./C06)			|C			
+|09	|[C 07](./C07)			|C			
+	
