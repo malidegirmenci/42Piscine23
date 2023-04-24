@@ -51,21 +51,15 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 
 |#	|SUBJECT							|LANGUAGE			
 |:-:|:--								|:-:							
-|01	|[Shell 00](./shell_00)	|Shell			
-|02	|Exam 00							|C			
-|03	|[Shell 01](./c_piscine_shell_01)	|Shell			
-|04	|[Rush 00](./c_piscine_rush_00)		|C					
-|05	|[C 00](./c_piscine_c_00)			|C			
-|06	|Exam 01							|C			
-|07	|[C 01](./c_piscine_c_01)			|C			
-|08	|[Rush 01](./c_piscine_rush_01)		|C			
-|09	|[C 02](./c_piscine_c_02)			|C			
-|10	|[C 03](./c_piscine_c_03)			|C			
-|11	|Exam 02							|C			
-|12	|[Rush 02](./c_piscine_rush_02)		|C			
-|13	|[C 04](./c_piscine_c_04)			|C			
-|14	|[C 06](./c_piscine_c_06)			|C			
-|15	|[C 05](./c_piscine_c_05)			|C			
-|16	|[C 07](./c_piscine_c_07)			|C			
-|17	|[C 08](./c_piscine_c_08)			|C	
-|18	|Exam Final							|C	
+|00	|[Shell 00](./c_piscine_shell_00)	|Shell					
+|01	|[Shell 01](./c_piscine_shell_01)	|Shell			
+|02	|[Rush 00](./c_piscine_rush_00)		|C					
+|03	|[C 00](./c_piscine_c_00)			|C					
+|04	|[C 01](./c_piscine_c_01)			|C					
+|05	|[C 02](./c_piscine_c_02)			|C			
+|06	|[C 03](./c_piscine_c_03)			|C							
+|07	|[C 04](./c_piscine_c_04)			|C			
+|08	|[C 06](./c_piscine_c_06)			|C			
+|09	|[C 05](./c_piscine_c_05)			|C			
+|10	|[C 07](./c_piscine_c_07)			|C			
+|11	|[C 08](./c_piscine_c_08)			|C	
